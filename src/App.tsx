@@ -1,5 +1,5 @@
 import tw from "tailwind-styled-components"
-import "./App.css"
+import "./styles/App.css"
 
 interface Props {
     $primary: boolean
